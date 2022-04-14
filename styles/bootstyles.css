@@ -1,0 +1,42 @@
+.common{
+    text-align: center;
+}
+
+.header{
+    height:100px;
+    width: auto;
+    background-color: lightblue;
+    line-height:auto; 
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: large;
+}
+.nav-item{
+    color: antiquewhite;
+    font-size: small;
+}
+.footer{
+    height: 50px;
+    width: auto;
+    background-color: lightblue;
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: large;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:300px;
+}
+.body{
+    background-color: lightblue;
+    color: darkblue;
+    margin: auto;
+    height: auto;
+    width: auto;
+}
+
+

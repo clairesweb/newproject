@@ -1,0 +1,25 @@
+.P{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    color: rgb(27, 27, 136);
+}
+.lists{
+    color: rgb(55, 55, 214);
+}
+.navbar {
+    background-color: blue;
+}
+
+.head{
+    color: aquamarine;
+}
+
+.mb-4{
+    background-color: rgb(215, 239, 250);
+}
+
+.body{
+    width: 400px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: lightblue;
